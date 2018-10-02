@@ -1,0 +1,94 @@
+.alineacion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ejercicios {
+    width: 50%;
+    border: black 3px solid;
+    height: 400px;
+}
+
+.button {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.verde {
+    background-color: #4CAF50;
+}
+
+.peru {
+    background-color: peru;
+}
+
+.azul {
+    background-color: rgb(56, 64, 172);
+}
+
+#ejercicio1-solucion {
+    display: flex;
+    justify-content:space-around;
+}
+
+#ejercicio2-solucion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ejercicio3-solucion {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#ejercicio4-solucion {
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content:space-between;
+}
+
+#ejercicio5-solucion {
+    display: flex;
+    align-items: flex-end;
+    justify-content:center;
+    flex-direction:row-reverse;
+}
+
+#ejercicio6 {
+
+}
+
+#ejercicio6-solucion {
+    display: flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+}
+
+#ejercicio7-solucion {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+p{
+    width: 200px;
+}
+
+img{
+    width: 50px;
+}
+
+.col3{
+    margin-left:20px;
+    margin-right: 20px;
+}
+
+.size{
+    font-size: 9pt;
+    text-align: center;
+}
+
+/* Editar los siguientes elementos de CSS */
+
